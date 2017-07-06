@@ -1,0 +1,54 @@
+person 1 is try to withdraw
+100 Amount is withdrawn new balance is : 900
+person 1 is complete the withdraw
+person 3 is try to withdraw
+100 Amount is withdrawn new balance is : 800
+person 3 is complete the withdraw
+person 2 is try to withdraw
+100 Amount is withdrawn new balance is : 700
+person 2 is complete the withdraw
+person 3  is try to deposit
+200 Amount is desposited new balance is : 900
+person 3 is complete the deposit
+person 1  is try to deposit
+200 Amount is desposited new balance is : 1100
+person 1 is complete the deposit
+person 1 is try to withdraw
+100 Amount is withdrawn new balance is : 1000
+person 1 is complete the withdraw
+person 1  is try to deposit
+200 Amount is desposited new balance is : 1200
+person 1 is complete the deposit
+person 1 is try to withdraw
+100 Amount is withdrawn new balance is : 1100
+person 1 is complete the withdraw
+person 1  is try to deposit
+200 Amount is desposited new balance is : 1300
+person 1 is complete the deposit
+person 3 is try to withdraw
+100 Amount is withdrawn new balance is : 1200
+person 3 is complete the withdraw
+person 3  is try to deposit
+200 Amount is desposited new balance is : 1400
+person 3 is complete the deposit
+person 3 is try to withdraw
+100 Amount is withdrawn new balance is : 1300
+person 3 is complete the withdraw
+person 2  is try to deposit
+200 Amount is desposited new balance is : 1500
+person 2 is complete the deposit
+person 3  is try to deposit
+200 Amount is desposited new balance is : 1700
+person 3 is complete the deposit
+person 2 is try to withdraw
+100 Amount is withdrawn new balance is : 1600
+person 2 is complete the withdraw
+person 2  is try to deposit
+200 Amount is desposited new balance is : 1800
+person 2 is complete the deposit
+person 2 is try to withdraw
+100 Amount is withdrawn new balance is : 1700
+person 2 is complete the withdraw
+person 2  is try to deposit
+200 Amount is desposited new balance is : 1900
+person 2 is complete the deposit
